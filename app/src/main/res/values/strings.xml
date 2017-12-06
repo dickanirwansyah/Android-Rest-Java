@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aplikasi Pengadaan Barang</string>
+    <string name="textViewIdkategori">Idkategori</string>
+    <string name="textViewNama">Nama</string>
+    <string name="textViewDeskripsi">Deskripsi</string>
+    <string name="btnTambahKategori">Tambah Kategori</string>
+    <string name="btnSimpanKategori">Simpan</string>
+    <string name="btnUpdateKategori">Update</string>
+    <string name="btnHapus">Hapus</string>
+    <string name="btnKembali">Kembali</string>
+    <string name="hintNama">Nama Kategori</string>
+    <string name="hintDeskripsi">Deskripsi Kategori</string>
+</resources>
